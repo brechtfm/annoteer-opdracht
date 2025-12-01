@@ -11,7 +11,8 @@ scans = [
     "NL-HaNA_1.04.02_1711_0194",
     "NL-HaNA_1.04.02_1711_0195",
     "NL-HaNA_1.04.02_1711_0196",
-    "NL-HaNA_1.04.02_1711_0197",
+    "NL-HaNA_1.04.02_1711_0197"
+    "GM_6_351",
 ]
 
 ANNOTATIONS_DIR = "annotations"
